@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "memory2d.sln"
+    "dotnet.defaultSolution": "memory2d.sln",
+    "dotnet.preferCSharpExtension": true
 }
